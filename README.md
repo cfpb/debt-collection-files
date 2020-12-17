@@ -1,3 +1,12 @@
+## Disclaimer
+
+The native design files and source code in this repository were provided solely
+to assist the public in commenting on the Bureau’s proposed debt collection rule.
+That comment period is now closed. The files may not be used to comply with the
+FDCPA or any final debt collection rule.
+
+---
+
 This repository contains native design files for a print version of the model
 validation notice and source code for a responsive version of the model
 validation notice designed by the Bureau in connection with its
@@ -51,11 +60,3 @@ The Bureau’s
 [notice of proposed rulemaking](https://www.consumerfinance.gov/policy-compliance/notice-opportunities-comment/open-notices/debt-collection-practices-regulation-f/)
 includes instructions for submitting comments on the proposed debt collection
 rule. Comments on the proposed rule may not be submitted through GitHub.
-
-
-## Disclaimer
-
-The native design files and source code in this repository are provided to
-assist the public in commenting on the Bureau’s proposed debt collection rule.
-They are not substitutes for otherwise complying with the FDCPA or any final
-debt collection rule.
