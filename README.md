@@ -41,20 +41,23 @@ to facilitate compliance with the December 2020 Rule.
 
 We welcome your contributions if any of the design templates
 we’ve provided aren’t working for you in any way.
-The best way to do this is to file an issue in this repository’s issue tracker.
-N.B.: Due to the nature of what this repository provides,
+The best way to do this is to
+[file an issue](https://github.com/cfpb/debt-collection-files/issues/new)
+in this repository’s issue tracker.
+
+_N.B.: Due to the nature of what this repository provides,
 we are unlikely to accept suggestions or pull requests that
-significantly alter the format or content of what is provided.
+significantly alter the format or content of what is provided._
 
 
-## 	Open source licensing info
+## Open source licensing info
 
-1.	TERMS
-2.	LICENSE
-3.	CFPB Source Code Policy
+1. [TERMS](TERMS.md)
+2. [LICENSE](LICENSE)
+3. [CFPB Source Code Policy](https://cfpb.github.io/source-code-policy/)
 
 
-##	Disclaimer
+## Disclaimer
 
 The native design files in this repository are provided
 for the convenience of the debt collection industry
