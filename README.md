@@ -34,7 +34,7 @@ to facilitate compliance with the December 2020 Rule.
 
 | Source file | Preview |
 |-------------|---------|
-| [InDesign](print/cfpb_model-debt-collection-validation-notice.indd) | [View PDF](print/cfpb_model-debt-collection-validation-notice.pdf)
+| [InDesign](https://github.com/cfpb/debt-collection-files/raw/gh-pages/print/cfpb_model-debt-collection-validation-notice.indd) | [View PDF](print/cfpb_model-debt-collection-validation-notice.pdf)
 
 
 ## Contributing
