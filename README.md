@@ -32,10 +32,19 @@ and at
 The Bureau is providing the native design files of the model validation notice
 to facilitate compliance with the December 2020 Rule.
 
+### English
+
 | Source file | Preview |
-|-------------|---------|
-| [InDesign](https://github.com/cfpb/debt-collection-files/raw/gh-pages/print/cfpb_model-debt-collection-validation-notice.indd) | [View PDF](print/cfpb_model-debt-collection-validation-notice.pdf)
-| [Word](https://github.com/cfpb/debt-collection-files/raw/gh-pages/print/cfpb_model-debt-collection-validation-notice.docx)| -
+-- | -- | 
+| [InDesign](https://github.com/cfpb/debt-collection-files/blob/gh-pages/print/cfpb_debt-collection_model-validation-notice_en.indd) | [PDF](https://github.com/cfpb/debt-collection-files/blob/gh-pages/print/cfpb_debt-collection_model-validation-notice_en.pdf) |  
+[Word](https://github.com/cfpb/debt-collection-files/blob/gh-pages/print/cfpb_debt-collection_model-validation-notice_en.docx) | 
+
+### Spanish
+
+| Source file | Preview |
+-- | -- |  
+| [InDesign](https://github.com/cfpb/debt-collection-files/blob/gh-pages/print/cfpb_debt-collection_model-validation-notice_es.indd) | [PDF](https://github.com/cfpb/debt-collection-files/blob/gh-pages/print/cfpb_debt-collection_model-validation-notice_es.pdf) |  
+[Word](https://github.com/cfpb/debt-collection-files/blob/gh-pages/print/cfpb_debt-collection_model-validation-notice_es.docx) | 
 
 
 ## Contributing
